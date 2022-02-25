@@ -3,7 +3,7 @@ package com.mainafelix.newsapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+//d3c99edb0d284cf8a2c6ef4af4bb2987
 public class MainActivity extends AppCompatActivity {
 
     @Override
