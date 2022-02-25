@@ -11,7 +11,21 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:src="@color/yellow"
         android:id="@+id/IVCategories"
         android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        android:text="categories"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:padding="3dp"
+        android:textStyle="bold"
+        android:id="@+id/TVCategory"/>
+
+
 
 </androidx.cardview.widget.CardView>
